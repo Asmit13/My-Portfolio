@@ -130,8 +130,8 @@ export const info = {
         },
         {
             title: "Personal Portfolio",
-            live: "https:",
-            source: "https:",
+            live: "https://asmit13.vercel.app/",
+            source: "https://github.com/Asmit13/My-Portfolio",
             image: mock4
         },
         {
